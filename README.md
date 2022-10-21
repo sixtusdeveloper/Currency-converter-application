@@ -9,4 +9,5 @@ Incase you want to test the code yourself, you can just do the following:
 6. You would be generated an API key simply copy the key and go back to your index.js code locate the previous API link and update the key API key to your generated one and you are good to go.
 
 
-https://github.com/Sixtus-Developer/Currency-Converter-Application/issues/1#issue-1418806761
+![Currency-Converter-App-screenshot](https://user-images.githubusercontent.com/80200124/197285019-8fa83829-89e3-4d2c-a6b2-655f255a4680.png)
+
