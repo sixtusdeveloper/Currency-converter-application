@@ -7,3 +7,6 @@ Incase you want to test the code yourself, you can just do the following:
 4. scroll down and locate the Exchange rate API key link.
 5. Headover to your browser and search for Exchange rate API converter and request for a free API KEY.
 6. You would be generated an API key simply copy the key and go back to your index.js code locate the previous API link and update the key API key to your generated one and you are good to go.
+
+
+https://github.com/Sixtus-Developer/Currency-Converter-Application/issues/1#issue-1418806761
