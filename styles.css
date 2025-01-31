@@ -12,8 +12,37 @@ body {
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
+  position: relative;
   background: aliceblue;
 }
+
+nav {
+  position: absolute;
+  top: 0;
+  left: 10px;
+}
+
+.logo {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.logo img {
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+.logo .brand-name {
+  font-size: 18px;
+  font-weight: 500;
+  background: linear-gradient(90deg, #675afe, #ff6bcb);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 ::selection {
   color: #fff;
   background: #675afe;
