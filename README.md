@@ -9,6 +9,5 @@ Incase you want to test the code yourself, you can just do the following:
 6. You would be generated an API key simply copy the key and go back to your index.js code locate the previous API link and update the key API key to your generated one and you are good to go.
 
 
-![Currency-Converter-App-screenshot](https://user-images.githubusercontent.com/80200124/197285019-8fa83829-89e3-4d2c-a6b2-655f255a4680.png)
+[![Image](https://github.com/user-attachments/assets/0e76510c-10af-4d09-9579-085905277ba1)](https://moniwalet.vercel.app)
 
-Check it out on web: https://ratechange.netlify.app
